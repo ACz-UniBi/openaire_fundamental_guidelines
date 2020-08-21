@@ -28,3 +28,4 @@ Contributing
 Your feedback, esp. as a repository manager or developer of scholarly repositories platforms, is important for us. You can provide feedback using the following channels:
 
 * by creating an `issue in this github repository`
+* by ... more will follow ...
