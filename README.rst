@@ -14,7 +14,7 @@ Repository Managers <https://guidelines.openaire.eu/>`_ and thus be the further 
 thematic, data, and software repositories that contains those resource types
 and also of other research output.
 
-The work will be performed within the Hoirzon 2020 framework of the project 
+The work will be performed within the Horizon 2020 framework of the project 
 
     OpenAIRE-Advance,
     H2020-EINFRA-2017,
