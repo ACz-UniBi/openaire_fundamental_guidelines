@@ -20,3 +20,11 @@ The work will be performed within the Horizon 2020 framework of the project
     H2020-EINFRA-2017,
     Grant Agreement 777541,
     European Commission.
+
+
+Contributing
+------------
+
+Your feedback, esp. as a repository manager or developer of scholarly repositories platforms, is important for us. You can provide feedback using the following channels:
+
+* by creating an `issue in this github repository`
