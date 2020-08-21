@@ -9,3 +9,13 @@ OpenAIRE Fundamental Guidelines for Repository Managers
    :alt: Documentation Status
 
 
+This repository will contain the fundamentals of the OpenAIRE Guidelines for 
+Repository Managers and thus be the further development of literature, institutional, 
+thematic, data, and software repositories.
+
+The work will be performed within the Hoirzon 2020 framework of the project 
+
+    OpenAIRE-Advance,
+    H2020-EINFRA-2017,
+    Grant Agreement 777541,
+    European Commission.
