@@ -1,5 +1,5 @@
-OpenAIRE Fundamental Guidelines for Repository and CRIS Managers
-================================================================
+OpenAIRE Fundamental Guidelines for Repository Managers
+=======================================================
 
 .. image:: https://travis-ci.org/openaire/openaire-fundamental-guidelines.svg?branch=master
    :target: https://travis-ci.org/openaire/openaire-fundamental-guidelines
